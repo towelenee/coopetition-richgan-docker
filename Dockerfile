@@ -6,4 +6,4 @@ RUN pip install -q scipy
 RUN pip install -q sklearn
 RUN pip install -q tqdm
 RUN pip install -q matplotlib
-
+RUN pip install -q comet_ml
